@@ -1,4 +1,3 @@
-#YING
 <h1 align="left">Hi 👋, I'm Cheuk Ying Iu (Ying)</h1>
 <h3 align="left">A frontend developer from Canada</h3>
 
