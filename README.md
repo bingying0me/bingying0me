@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **typescript & next.js**
 
-- 👨‍💻 All of my projects are available at [github]([github](https://github.com/bingying0me))
+- 👨‍💻 All of my projects are available at [[github](https://github.com/bingying0me)]
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React**
 
