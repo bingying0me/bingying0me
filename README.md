@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bingying0me@gmail.com**
 
-- ⚡ Fun fact **games lover**
+- ⚡ Fun fact ❤️**games lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
