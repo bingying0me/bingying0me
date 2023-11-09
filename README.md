@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **next.js & typescript**
 
-- 👨‍💻 All of my projects are available at [my personal website]([https://github.com/bingying0me](https://personal-website-one-ruddy.vercel.app/))
+- 👨‍💻 All of my projects are available at my personal website [https://personal-website-one-ruddy.vercel.app/]([https://github.com/bingying0me](https://personal-website-one-ruddy.vercel.app/))
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React**
 
